@@ -1,7 +1,7 @@
     USUARIO PRECARGADO
 
-USUARIO: joselo
-CONTRASEÑA: joselo33
+USUARIO: 
+CONTRASEÑA:
 
 
 
